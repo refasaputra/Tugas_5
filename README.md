@@ -31,6 +31,29 @@ Untuk menampilkan pilihan "hapus"gunakan fungsi 'elif' kemudian gunakan fungsi '
 lalu untuk menampilan pilihan "cari"" gunakan fungsi 'elif' kemudian gunakan fungsi if nama in data.keys():' untuk mencari data nama kemudian gunakan fungsi 'else' untuk menampilkan data nama yang kita cari tidak ada.
 
 lalu jika ingin keluar dari program gunakan fungsi 'if' kemudian gunakan fungsi break untuk keluar dari data nilai/menghentikan program
+
 Seleseai
 
-PROGRAM~~~~~
+Program___________________________________
+
+![image](https://user-images.githubusercontent.com/115479782/204191473-4aa3118c-fd77-4017-8d2c-80c29d79b277.png)
+
+![image](https://user-images.githubusercontent.com/115479782/204191493-75ee6c39-6beb-4137-9e22-9b36805636f3.png)
+
+![image](https://user-images.githubusercontent.com/115479782/204191541-5435e966-eb10-4492-8e1a-bc44ebeeb5c6.png)
+
+Hasil Program______________________________
+
+![image](https://user-images.githubusercontent.com/115479782/204191693-152de1e9-7525-4818-b82c-467981e7f510.png)
+
+![image](https://user-images.githubusercontent.com/115479782/204191757-39d548e8-9ea0-48a2-a9b9-75982edbd2bf.png)
+
+![image](https://user-images.githubusercontent.com/115479782/204191762-8080c4e4-9b7e-4f27-a588-6bb986ace91c.png)
+
+Flowchart___________________________________
+
+![image](https://user-images.githubusercontent.com/115479782/204192069-41d18b36-98cd-436e-b244-6654c5cbf1ad.png)
+
+Sekian Dari Saya 
+
+Terima Kasih:)
